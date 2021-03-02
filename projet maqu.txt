@@ -1,4 +1,8 @@
 mouhamed 
 kadiatou diallo
+<<<<<<< HEAD
 barro
 imam 
+=======
+ok;i
+>>>>>>> 2acbd5d4460cffc7bc98cb996d52f9c6aa8ba04a
